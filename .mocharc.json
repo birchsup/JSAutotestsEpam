@@ -1,0 +1,4 @@
+{
+  "spec": "module-1/tests/**/*.spec.js",
+  "reporter": "mochawesome"
+}
